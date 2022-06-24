@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Spiking Neural Networks for Image Classification.md",
+            "file": "Notes/TEST.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Spiking Neural Networks for Image Classification.md",
+                "file": "Notes/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2fc532ede20666ec",
   "lastOpenFiles": [
+    "Notes/TEST.md",
     "Notes/Spiking Neural Networks for Image Classification.md",
     "Notes/A Survey of Neuromorphic Computing and Neural Networks in Hardware.md",
     "NC learning.md",
@@ -97,7 +98,6 @@
     "Notes/The missing memristor found.md",
     "0. Literature Research Template.md",
     "Notes/Neuromorphic nanoelectronic materials.md",
-    "nano.md",
-    "synaptic transistor.md"
+    "nano.md"
   ]
 }
