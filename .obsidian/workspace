@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spiking neural networks for computer vision.md",
+            "file": "Notes/Spiking neural networks for computer vision.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiking neural networks for computer vision.md",
+                "file": "Notes/Spiking neural networks for computer vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "2fc532ede20666ec",
   "lastOpenFiles": [
-    "Spiking neural networks for computer vision.md",
+    "Notes/Spiking neural networks for computer vision.md",
     "Notes/Spiking Neural Networks for Image Classification.md",
     "Notes/TEST.md",
     "Notes/A Survey of Neuromorphic Computing and Neural Networks in Hardware.md",
