@@ -8,7 +8,7 @@ Retrieved date: 24-06-2022
 - [[conventional neural network]] have shown great performance but [[spiking neural network]] might be better for embedded applications
 
 ### Method
-- Reimplements the tests performed by Deng 2020 using different [[SNN models]], [[SNN algorithms]], [[SNN learning]] to study how these factors affect the [[SNN accuracy]].
+- Reimplements the tests performed by Deng 2020 using different [[SNN model]], [[SNN algorithm]], [[SNN learning]] to study how these factors affect the [[SNN accuracy]].
 - Compares the classification a[[SNN accuracy]] of a two-layer [[conventional neural network]] to a two-layer [[spiking neural network]] using the MNIST dataset.
 
 ### Results
