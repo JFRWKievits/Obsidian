@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9c7be98135da023f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc532ede20666ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Spiking Neural Networks for Image Classification.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee9c96b53a248de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e5e1bb1bf6b068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3999e2169cf5ea5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d32f93cad75f846",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce7b385df5d3df30",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa94e54b6fad599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "201453ca398a001a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Spiking Neural Networks for Image Classification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2fc532ede20666ec",
+  "lastOpenFiles": [
+    "Notes/Spiking Neural Networks for Image Classification.md",
+    "Notes/A Survey of Neuromorphic Computing and Neural Networks in Hardware.md",
+    "NC learning.md",
+    "model accuracy.md",
+    "NC models.md",
+    "Notes/The missing memristor found.md",
+    "0. Literature Research Template.md",
+    "Notes/Neuromorphic nanoelectronic materials.md",
+    "nano.md",
+    "synaptic transistor.md"
+  ]
+}
