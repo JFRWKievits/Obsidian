@@ -13,12 +13,13 @@ Retrieved date: 24-06-2022
 - describes an [[SNN algorithm]] where [[structural plasticity]] can be used to learn input features
 
 ### Results
-- describes a model for [[structural plasticity]]
+- describes a model for [[structural plasticity]] based on biological inspiration
 
 ### Data 
 - own research using [[SpiNNaker]] and a [[spiking neural network]] that only employs [[structural plasticity]] and no [[[spike timing dependent plasticity]]]
 
 ### Conclusions
+-
 ### Significance
 ### My Notes
 - Paper by Peter
