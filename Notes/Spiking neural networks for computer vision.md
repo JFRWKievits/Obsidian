@@ -19,7 +19,12 @@ Retrieved date: 24-06-2022
 - own research using [[SpiNNaker]] and a [[spiking neural network]] that only employs [[structural plasticity]] and no [[[spike timing dependent plasticity]]]
 
 ### Conclusions
--
+- [[event-based processing]] offers advantages over conventional processing with respect to computing resources
+- [[neuromorphic computing]] is well suited for [[event-based processing]]
+- [[structural plasticity]] opens the possibility of online [[unsupervised]] learning
+
 ### Significance
+- Concrete steps towards [[unsupervised]] learning for [[spiking neural network]]
+
 ### My Notes
 - Paper by Peter
