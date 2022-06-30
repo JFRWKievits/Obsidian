@@ -13,7 +13,7 @@ Retrieved date: 25-06-2022
 
 ### Results
 - [[biological processes]] described and [[computational power]] described
-- Increasing number of [[synapses]] by M improves the signal-to-noise ration by the square root of M (roughly) but comes at M times greater cost (power?)
+- Increasing number of [[synapse]]s by M improves the signal-to-noise ration by the square root of M (roughly) but comes at M times greater cost (power?)
 - some [[component-dependent]]  effects in [[neuromorphic computing]]![[Pasted image 20220628100625.png]]
 - some [[time-dependent]] effects in [[neuromorphic computing]]![[Pasted image 20220628100843.png]]
 - plasticity in [[neuromorphic computing]] ![[Pasted image 20220628101045.png]]

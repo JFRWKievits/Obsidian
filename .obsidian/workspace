@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0c666ef36fe6c8cc",
+        "id": "c855b8c33e43fd32",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c666ef36fe6c8cc",
+  "active": "c855b8c33e43fd32",
   "lastOpenFiles": [
-    "Notes/Structural Plasticity on theSpiNNaker Many-Core NeuromorphicSystem.md",
-    "Notes/Spiking Neural Networks for Computer Vision.md",
-    "Notes/Spiking Neural Networks Hardware Implementations and Challenges.md",
-    "spike timing dependent plasticity.md",
-    "Notes/Radiation effects on electronic devices in space.md",
-    "Notes/Large-scale neuromorphic computing systems.md",
-    "modelling.md",
-    "Pictures/Pasted image 20220629103623.png",
-    "time-dependent.md",
-    "Notes/Total Ionizing Dose Effects in MOS Oxides andDevices.md"
+    "Notes/Neuromorphic Processing at the Sensor Edge Engineering Tiny Brain.md",
+    "computational power.md",
+    "Notes/Neuromorphic nanoelectronic materials.md",
+    "Notes/In SituSynaptic Programming of CBRAM inan Ionizing Radiation Environment.md",
+    "0. Literature Research Template.md",
+    "synapses.md",
+    "Pictures/Pasted image 20220630142546.png",
+    "Notes/NEUROMORPHIC COMPUTING; THE POTENTIAL FOR HIGH-PERFORMANCE PROCESSING IN SPACE.md",
+    "Notes/Radiation-Induced Soft Errors in AdvancedSemiconductor Technologies.md",
+    "Pictures/Pasted image 20220630095740.png"
   ]
 }

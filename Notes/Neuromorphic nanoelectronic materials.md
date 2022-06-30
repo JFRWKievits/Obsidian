@@ -11,7 +11,7 @@ Retrieved date: 23-06-2022
 - review progress in the emerging field of neuromorphic [[nanoelectronic]] materials with a focus on how nanomaterials enable unique neuromorphic responses compared to inorganic and organic materials
 
 ### Results
-- Introduces multiple devices used for [[neuromorphic computing]] [[synapses]]
+- Introduces multiple devices used for [[neuromorphic computing]] [[synapse]]s
 	- [[transistor]] - robust, allows multiple gate channels, large footprint
 	- (vertical) [[memristor]] - smaller size, 3D stacking enabling, combines induction and memory
 - Shows 0D, 1D, 2D and 3D [[nanoelectronic]] materials
@@ -27,7 +27,7 @@ Retrieved date: 23-06-2022
 
 ### My Notes
 - Neuromorphic computing hardware requires physical models at three different [[levels]]: 
-	- individual components such as artificial synapses and neurons; 
-	- networks of these neurons and synapses; 
+	- individual components such as artificial [[synapse]] and [[neuron]]; 
+	- networks of these [[neuron]] and [[synapse]]; 
 	- learning rules and training methods
 - Understand this figure of [[memristor]] operation:![[Pasted image 20220624093329.png]]
