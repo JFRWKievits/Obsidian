@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc532ede20666ec",
+        "id": "0c666ef36fe6c8cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fc532ede20666ec",
+  "active": "0c666ef36fe6c8cc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Notes/Structural Plasticity on theSpiNNaker Many-Core NeuromorphicSystem.md",
     "Notes/Spiking Neural Networks for Computer Vision.md",
-    "Notes/Spiking Neural Networks for Image Classification.md",
-    "Notes/TEST.md",
-    "Notes/A Survey of Neuromorphic Computing and Neural Networks in Hardware.md",
-    "NC learning.md",
-    "model accuracy.md",
-    "NC models.md",
-    "Notes/The missing memristor found.md",
-    "0. Literature Research Template.md"
+    "Notes/Spiking Neural Networks Hardware Implementations and Challenges.md",
+    "spike timing dependent plasticity.md",
+    "Notes/Radiation effects on electronic devices in space.md",
+    "Notes/Large-scale neuromorphic computing systems.md",
+    "modelling.md",
+    "Pictures/Pasted image 20220629103623.png",
+    "time-dependent.md",
+    "Notes/Total Ionizing Dose Effects in MOS Oxides andDevices.md"
   ]
 }
