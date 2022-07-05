@@ -17,6 +17,7 @@ Retrieved date: 21-06-2022
 		- [[NC applications]]
 	- discussion on the [[NC next steps]]
 
+
 ### Results
 - [[NC models]] (from most complex to least complex):
 	- Biologically-plausible [[neuroscience]]
@@ -29,9 +30,9 @@ Retrieved date: 21-06-2022
 	- [[unsupervised]] has a lot of opportunity but not demonstrated well
 	- ![[Pasted image 20220621160327.png]]
 	- Hardware
-		- [[Digital]]
-		- [[Analog]]
-		- [[Mixed signal]]
+		- [[digital]]
+		- [[analog]]
+		- [[mixed signal]]
 	- Supporting systems
 		- Communication (inter-chip or intra-chip)
 			- [[Address Event Representation]] (AER) (inter-chip mostly)
