@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d122a605690958b",
+        "id": "b77291be980ae73e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/Meeting Alessandra 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,9 +41,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meeting Notes/Meeting Alessandra 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d122a605690958b",
+  "active": "b77291be980ae73e",
   "lastOpenFiles": [
-    "Pictures/Pasted image 20220705115507.png",
-    "Pictures/Pasted image 20220705115450.png",
-    "Notes/Reliability Considerations and Radiation Testing ofMemristor Devices.md",
-    "electron.md",
-    "Pictures/Pasted image 20220705103454.png",
-    "Pictures/Pasted image 20220705103351.png",
-    "Notes/Modeling Memristor Radiation Interaction Eventsand the Effect on Neuromorphic Learning Circuits.md",
-    "0. Literature Research Template.md",
-    "Notes/A Survey of Neuromorphic Computing and Neural Networks in Hardware.md",
-    "Digital.md"
+    "Meeting Notes/Meeting Alessandra 1.md",
+    "Literature Notes/Overview of In-Orbit Radiation Induced Spacecraft Anomalies.md",
+    "Literature Notes/The Space Radiation Environment for Electronics.md",
+    "Literature Notes/Reliability Considerations and Radiation Testing ofMemristor Devices.md",
+    "Untitled.md",
+    "Literature Notes/Propagation of cortical synfire activity; survival probability in single trials and stability in the mean.md",
+    "synfire.md",
+    "Literature Notes/Circuits and Systems Simulation-based Fault-Tolerance Analysis of Small Satellite On-Board Computers.md",
+    "Literature Notes/Activity-dependent structural plasticity.md",
+    "Meeting Notes/Meeting Peter 1.md"
   ]
 }

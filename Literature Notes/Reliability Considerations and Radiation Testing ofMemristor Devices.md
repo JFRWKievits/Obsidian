@@ -1,4 +1,4 @@
-Title: Reliability Considerations and Radiation Testing ofMemristor Devices
+Title: Reliability Considerations and Radiation Testing of Memristor Devices
 Author: Deionno, Erica et al.
 Topic: #neuromorphiccomputing #radiationeffects 
 Publication date: 2015

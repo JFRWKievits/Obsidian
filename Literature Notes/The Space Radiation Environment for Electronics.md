@@ -22,7 +22,7 @@ Retrieved date: 28-06-2022
 - A lot of tabular data of fluxes of [[electron]], [[proton]] and [[heavy ion]]
 
 ### Conclusions
-- There are considerations to be made to make [[spacecraft electronics]] more [[failure-tolarant]]
+- There are considerations to be made to make [[spacecraft electronics]] more [[fault-tolerance]]
 - The Earth [[space radiation]] is fairly benign compared to other more extreme locations
 
 ### Significance
