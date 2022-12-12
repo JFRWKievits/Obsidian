@@ -10,8 +10,8 @@ Retrieved date: 29-06-2022
 
 ### Method
 - an overview is given of the [[time-dependent]] [[radiation effects]] in [[MOS]] systems, before discussing each of the major physical processes in greater detail. ![[Pasted image 20220629103623.png]]
-- the implications of the [[radiation effects]] for [[testing]], [[prediction]], and [[hardness assurance]]
-- the implications of [[scaling]](reducing the oxide thickness) and issues associated with oxide isolation structures and [[leakage current]]s.
+- the implications of the [[radiation effects]] for [[Testing - SEE]], [[prediction]], and [[hardness assurance]]
+- the implications of [[scaling]] (reducing the oxide thickness) and issues associated with oxide isolation structures and [[leakage current]]s.
 
 ### Results
 - Basic physical processes
@@ -25,7 +25,7 @@ Retrieved date: 29-06-2022
 		- 5) The hole transport time, or recovery time, has a strong super-linear power law dependence on oxide thickness.
 	- [[Deep Hole Trapping and Annealing]] (quantum interactions, dipole model most likely)
 	- [[Radiation-Induced Interface Traps]]
-- The implications of the [[radiation effects]] for [[testing]], [[prediction]], and [[hardness assurance]]
+- The implications of the [[radiation effects]] for [[Testing - SEE]], [[prediction]], and [[hardness assurance]]
 	- [[Rebound or Super-Recovery]] (only a problem on [[n-channel]] devices)![[Pasted image 20220629112612.png]]
 	- [[Apparent Dose Rate Effects]] (normally does not matter, use [[linear systems theory]])
 	- [[Nonlinear Effects]] (hole trapping may saturate with dose, due to trap filling, space charge effects related to [[ELDRS]], recombination of trapped holes with radiation-induced electrons, or a balance between hole trapping and tunnel annealing)

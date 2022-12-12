@@ -1,1 +1,9 @@
-{}
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Darkyan",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "accentColor": ""
+}

@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "spaceradiation",
+  "search": "oldham",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#neuromorphiccomputing",
@@ -39,7 +39,7 @@
       "query": "tag:#spaceradiation",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 5431473
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 39,
-  "scale": 0.28165328146789426,
+  "scale": 0.1846232622585821,
   "close": false
 }

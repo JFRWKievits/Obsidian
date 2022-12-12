@@ -5,15 +5,15 @@ Publication date: 2001
 Retrieved date: 11-07-2022 
 
 ### Background
-- [[synfire chain]] has been introduced before but it is tested here
+- [[synfire chain]] has been introduced before but it is tested here (for the second time)
 
 ### Method
-- Presents results from network [[simulation]], taking full account of the variability in pulse packet realizations. 
-- Repeatedly stimulated a [[synfire chain]] of model [[neuron]]s and estimated activity (a) and temporal jitter (s) of the spike response for each [[neuron]] group in the chain in many trials. 
-- The survival probability of the activity was assessed for each point in (a,s)-space. 
-- The results confirm and extend earlier predictions based on single [[neuron]] properties and adeterministic state-space analysis
+- Presents results from network [[simulation]], taking full account of the variability in [[pulse packet]] realizations. 
+- Repeatedly stimulated a [[synfire]] chain of model [[neuron]]s and estimated activity (a) and temporal jitter (s) of the spike response for each [[neuron]] group in the chain in many trials. 
+- The survival probability of the [[activity]] was assessed for each point in (a,s)-space. 
+- The results confirm and extend earlier predictions based on single [[neuron]] properties and a deterministic state-space analysis
 
-### 
+### Data
 - Own [[simulation]]
 
 ### Results 

@@ -1,4 +1,4 @@
-Title: In SituSynaptic Programming of CBRAM inan Ionizing Radiation Environment
+Title: In SituSynaptic Programming of CBRAM in an Ionizing Radiation Environment
 Author: Taggart, J. L. et al.
 Topic: #neuromorphiccomputing  #radiationeffects 
 Publication date: 2018
@@ -8,7 +8,7 @@ Retrieved date: 30-06-2022
 - Conductive bridging random access memory ([[CBRAM]]) resistive memories are shown to be susceptible to ionizing radiation effects during neuromorphic pulse programming
 
 ### Method
-- Provides a setup for [[testing]] [[NC hardware]]
+- Provides a setup for [[Testing - SEE]] [[NC hardware]]
 - Uses an irradiation chamber (no targeted beam or [[electron]], [[proton]] or [[heavy ion]] characteristics mentioned)
 ### Results
 - Shows that [[CBRAM]] devices can be incrementally programmed during 60Co gamma-ray irradiation with [[radiation effects]] observed with increasing dose.
